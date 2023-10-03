@@ -19,7 +19,7 @@ margin-top: 20px;
 }
 
 .big-card__description > p > a {
-  color: grey;
+  color: rgb(53, 48, 48);
 }
 
 .big-card__photo > img {

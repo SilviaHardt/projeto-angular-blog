@@ -14,6 +14,7 @@
   width: 500px;
   min-width: 500px;
   height: 300px;
+  margin-bottom: 20px;
 }
 
 .content__description{
@@ -21,6 +22,22 @@
 }
 
 .content__description > p {
-  margin-top: 20px;
-  color: rgb(204, 202, 202);
+    color: rgb(31, 28, 28);
+  margin: 2rem 30rem 5rem 30rem;
+  text-align: justify;
+}
+
+.btn {
+  margin: 10px;
+  border: solid 2px grey;
+  border-radius: 5px;
+  padding: 6px;
+  background: rgb(92, 91, 91);
+  color: white;
+}
+
+.btn-voltar {
+  display: flex;
+  justify-content: end;
+  margin-right: 120px;
 }
